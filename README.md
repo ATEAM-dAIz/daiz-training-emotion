@@ -1,15 +1,17 @@
 # dAIz 감정 모델
 KoBERT, pytorch, 정신 건강 데이터셋을 활용한 감정 인식 모델
 
+
 ## 🛠Environments🛠
-### GPU
-Colab pro(p100)
+> ### GPU
+> Colab pro(p100)
 
-### Data
-[감성 대화 말뭉치](https://aihub.or.kr/aidata/7978)
+> ### Data
+> [감성 대화 말뭉치](https://aihub.or.kr/aidata/7978)
 
-### Language Model
-[KoBERT](https://github.com/SKTBrain/KoBERT)
+> ### Language Model
+> [KoBERT](https://github.com/SKTBrain/KoBERT)
+
 
 ## 💡References💡
 [KoBERT](https://github.com/SKTBrain/KoBERT)
